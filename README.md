@@ -1,6 +1,7 @@
 # scroll_3d
 
 A new Flutter project.
+Main.dart is the working one
 
 ## Getting Started
 
